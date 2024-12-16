@@ -1,6 +1,5 @@
 <h1>🧷C# EĞİTİM KAMPI</h1>
-Bu repo, Murat Yücedağ'ın gerçekleştirdiği C# Eğitim Kampından süresince tamamladığım ilk 10 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz
-
+Bu repo, Murat Yücedağ'ın gerçekleştirdiği C# Eğitim Kampından öğrenilen aşağıda ki projeleri içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama örnekleri içermektedir. 
 ## 📌 Proje 1: Hello World!
 Bu projede, konsol ekranına çıktılar yazdırarak, temel yazdırma işlemlerini öğrendik.
 
