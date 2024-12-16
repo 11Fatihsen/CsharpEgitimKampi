@@ -1,0 +1,12 @@
+﻿CTRL + K + D =  ilgili dilin kurallar?na göre formatlay?p düzenli
+hale getirir.
+
+F9 => ile hata ay?klay?c? (breakpoint) ba?latmak için.
+F11 => breakpoint ilerletmek için.
+
+SQL Bağlantısı => SqlConnection connection = new SqlConnection("");
+
+SqlConnection => Sınıf
+connection => Nesne
+
+Örnek => Apartman bir Sınıf, Daireler Nesne dir.
